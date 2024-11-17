@@ -6,7 +6,7 @@
       <p>🚀 Passionate about AI && Mobile Development</p>
       <p>💛 Fan of Nijika Ijichi | Chat of Neuro-Sama && Evil Neuro</p>
       <p>🎸 Listener of Yorushika && Kessoku Band @ Bocchi The Rock!</p>
-      <p>🎨 PFP Creds | X @eenightlamp</p>
+      <p>🎨 PFP Creds | <a href="https://x.com/eenightlamp/status/1857868000092950977" target="_blank">X @eenightlamp</a></p>
     </td>
     <td align="right" valign="top">
       <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsuha.jpg" alt="Top Right Photo" width="420">
