@@ -1,13 +1,13 @@
 <table width="100%">
   <tr>
-    <td align="left">
-      <h1>Hi, Natsuha Yap here!</h1>
+    <td align="left" valign="top">
+      <h1>Hi, Natsuha Yap here! 🌟</h1>
       <p>🌟 42 Malaysia Cadet</p>
       <p>🚀 Exploring Coding | Passionate about AI & Mobile Dev</p>
       <p>🎸 Fan of Neuro-sama && Evil Neuro || Nijika Ijichi</p>
       <p>🎨 PFP Creds | X @eenightlamp</p>
     </td>
-    <td align="right">
+    <td align="right" valign="top">
       <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsuha.jpg" alt="Top Right Photo" width="420">
     </td>
   </tr>
