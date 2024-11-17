@@ -1,10 +1,3 @@
-
-If the photo is still in the middle, it could be due to the way GitHub renders Markdown and inline HTML. GitHub doesn't fully support all CSS properties, especially for complex layouts like flexbox.
-
-To ensure the image aligns to the top-right, a simpler approach using a table-like structure can work better, as GitHub supports basic HTML tables. Here's an alternative solution:
-
-html
-複製程式碼
 <table width="100%">
   <tr>
     <td align="left">
