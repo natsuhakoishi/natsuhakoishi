@@ -1,6 +1,6 @@
 **Hi, Natsuha Yap here!**
 <p>🌟 42 Malaysia Cadet</p>
-<p>🚀 Exploring Coding | Passionate about AI & Game Dev</p>
+<p>🚀 Exploring Coding | Passionate about AI & Mobile Dev</p>
 <p>🎸 Fan of Neuro-sama && Evil Neuro || Nijika Ijichi</p>
 <p>🎨 PFP Creds | X @eenightlamp</p>
 
