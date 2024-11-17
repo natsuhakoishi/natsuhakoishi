@@ -13,10 +13,14 @@
     </td>
   </tr>
   <tr style="height: 100%;">
-    <td colspan="2" align="left" valign="bottom" style="padding-left: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" style="margin-right: 5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" style="margin-right: 5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="py logo">
+    <td colspan="2" align="left" valign="bottom" style="padding-left: 10px; padding-bottom: 10px;">
+      <!-- Container with flex for text and logos -->
+      <div style="display: flex; align-items: center;">
+        <span style="margin-right: 10px;">Technologies:</span>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" style="margin-right: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" style="margin-right: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="py logo">
+      </div>
     </td>
   </tr>
 </table>
