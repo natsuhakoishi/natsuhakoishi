@@ -32,5 +32,5 @@
 </p>
 
 <p align="center">
-  <strong>:NeuroSpin::evilSpin:</strong>
+  <strong>:NeuroSpin: | :evilSpin:</strong>
 </p>
