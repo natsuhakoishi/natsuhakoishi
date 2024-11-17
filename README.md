@@ -8,7 +8,7 @@
       <p>🎨 PFP Creds | X @eenightlamp</p>
     </td>
     <td align="right">
-      <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsuha.jpg" alt="Top Right Photo" width="500">
+      <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsuha.jpg" alt="Top Right Photo" width="470">
     </td>
   </tr>
 </table>
