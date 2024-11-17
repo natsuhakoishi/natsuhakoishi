@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
 		<h1>Hi, Natsuha Yap here!</h1>
 		<p>🌟 42 Malaysia Cadet</p>
