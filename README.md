@@ -5,6 +5,6 @@
 🎨 PFP Creds | X @eenightlamp
 
 <p align="center">
-  <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/neuro.gif" alt="Evil" width="500">
-  <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/evil.gif" alt="Neuro" width="500">
+  <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/neuro.gif" alt="Evil" width="400">
+  <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/evil.gif" alt="Neuro" width="400">
 </p>
