@@ -4,7 +4,7 @@
       <h1>Hi, Natsuha Yap here! 🌟</h1>
       <p>💻 Cadet of <a href="https://42kl.edu.my/about-us/" target="_blank">42 Malaysia</a></p>
       <p>🚀 Passionate about AI & Mobile Development</p>
-      <p>💛 Love to <a href="https://bocchi-the-rock.fandom.com/wiki/Nijika_Ijichi" target="_blank">Nijika Ijichi</a> from <a href="https://www.youtube.com/channel/UC6IhDHJbJUoRJGUPnlh5GRQ" target="_blank">Kessoku Band @ Bocchi The Rock!</a></p>
+      <p>💛 Love to <a href="https://bocchi-the-rock.fandom.com/wiki/Nijika_Ijichi" target="_blank">Nijika Ijichi</a> from <a href="https://www.youtube.com/channel/UC6IhDHJbJUoRJGUPnlh5GRQ" target="_blank">Kessoku Band</a></p>
 	  <p>🐢 Chat of <a href="https://www.youtube.com/@Neurosama" target="_blank">Neuro-sama & Evil Neuro</a></p>
       <p>🎸 Big Fan of <a href="https://www.youtube.com/channel/UC6IhDHJbJUoRJGUPnlh5GRQ" target="_blank">Kessoku Band @ Bocchi The Rock!</a></p>
 	  <p>🎧 Listener of <a href="https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA" target="_blank">Yorushika</a></p>
