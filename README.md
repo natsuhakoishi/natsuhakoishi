@@ -9,7 +9,7 @@
 	  <p>🎧 Listener of <a href="https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA" target="_blank">Yorushika</a></p>
 	  <p>🎮 Loyalty Player of <a href="https://arcaea.lowiro.com/en/" target="_blank">Arcaea</a></p>
 	  <p>📱 <a href="https://discord.com/users/637920921398804480" target="_blank">Discord</a> | <a href="https://www.instagram.com/natsuhakoishi/" target="_blank">Instagram</a>
-	  <p></p>
+	  <p> </p>
 	  <p>🎨 PFP Creds to <a href="https://x.com/eenightlamp/status/1857868000092950977" target="_blank">@eenightlamp in X</a></p>
     </td>
     <td align="right" valign="top">
