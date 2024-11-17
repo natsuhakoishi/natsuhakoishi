@@ -2,10 +2,11 @@
   <tr style="height: 100%;">
     <td align="left" valign="top" style="vertical-align: top;">
       <h1>Hi, Natsuha Yap here! 🌟</h1>
-      <p>💻 42 Malaysia Cadet</p>
+      <p>💻 <a href="https://42kl.edu.my/about-us/" target="_blank">42 Malaysia</a> Cadet</p>
       <p>🚀 Passionate about AI && Mobile Development</p>
-      <p>💛 Fan of Nijika Ijichi | Chat of Neuro-Sama && Evil Neuro</p>
-      <p>🎸 Listener of Yorushika && Kessoku Band @ Bocchi The Rock!</p>
+      <p>💛 Love to <a href="https://bocchi-the-rock.fandom.com/wiki/Nijika_Ijichi" target="_blank">Nijika Ijichi</a> | Chat of <a href="https://www.youtube.com/@Neurosama" target="_blank">Neuro-sama && Evil Neuro</a></p>
+      <p>🎸 Big Fan of <a href="https://www.youtube.com/channel/UC6IhDHJbJUoRJGUPnlh5GRQ" target="_blank">Kessoku Band @ Bocchi The Rock!</a></p>
+	  <p>🎧 Listener of <a href="https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA" target="_blank">Yorushika</a></p>
       <p>🎨 PFP Creds | <a href="https://x.com/eenightlamp/status/1857868000092950977" target="_blank">X @eenightlamp</a></p>
     </td>
     <td align="right" valign="top">
