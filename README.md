@@ -32,5 +32,5 @@
 </p>
 
 <p align="center">
-  <strong>Neuro-sama & Evil Neuro-sama Spin.gif</strong>
+  <strong>:NeuroSpin:       :evilSpin:/strong>
 </p>
