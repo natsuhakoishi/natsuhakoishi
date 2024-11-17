@@ -1,21 +1,22 @@
-<table width="100%" style="height: 100%;">
-  <tr>
-    <td align="left" valign="top" style="vertical-align: top; padding-bottom: 10px;">
+<table width="100%" style="height: 100%; table-layout: fixed;">
+  <tr style="height: 100%;">
+    <td align="left" valign="top" style="vertical-align: top;">
       <h1>Hi, Natsuha Yap here! 🌟</h1>
       <p>💻 42 Malaysia Cadet</p>
       <p>🚀 Passionate about AI && Mobile Development</p>
       <p>💛 Fan of Nijika Ijichi | Chat of Neuro-Sama && Evil Neuro</p>
       <p>🎸 Listener of Yorushika && Kessoku Band @ Bocchi The Rock!</p>
       <p>🎨 PFP Creds | X @eenightlamp</p>
-      <!-- Logos at the bottom of the text -->
-      <div style="margin-top: 20px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" style="margin-right: 5px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" style="margin-right: 5px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="py logo">
-      </div>
     </td>
-    <td align="right" valign="bottom">
+    <td align="right" valign="top">
       <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsuha.jpg" alt="Top Right Photo" width="420">
+    </td>
+  </tr>
+  <tr style="height: 100%;">
+    <td colspan="2" align="left" valign="bottom" style="padding-left: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="py logo">
     </td>
   </tr>
 </table>
