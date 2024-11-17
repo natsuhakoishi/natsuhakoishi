@@ -14,7 +14,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="py logo">
       </div>
     </td>
-    <td align="right" valign="top">
+    <td align="right" valign="bottom">
       <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsuha.jpg" alt="Top Right Photo" width="420">
     </td>
   </tr>
