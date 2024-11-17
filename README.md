@@ -4,7 +4,7 @@
 🎸 Fan of Neuro-sama && Evil Neuro || Nijika Ijichi
 🎨 PFP Creds | X @eenightlamp
 
-<!-- <p align="center">
-  <img src="https://github.com/natsuhakoishi/" alt="GIF 1" width="200">
-  <img src="https://example.com/gif2.gif" alt="GIF 2" width="200">
-</p> -->
+<p align="center">
+  <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/neuro.gif" alt="Evil" width="200">
+  <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/evil.gif" alt="Neuro" width="200">
+</p>
