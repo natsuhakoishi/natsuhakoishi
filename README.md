@@ -14,7 +14,7 @@
 	  <p>🎨 Profile Picture Credits to <a href="https://x.com/eenightlamp/status/1857868000092950977" target="_blank">@eenightlamp in X</a></p>
     </td>
     <td align="right" valign="top">
-      <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/evilShake.gif" alt="Top Right Photo" width="450">
+      <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/neuroDance.gif" alt="Top Right Photo" width="450">
     </td>
   </tr>
   <tr style="height: 100%;">
