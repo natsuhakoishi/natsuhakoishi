@@ -8,6 +8,7 @@
       <p>💛 Only <a href="https://bocchi-the-rock.fandom.com/wiki/Nijika_Ijichi" target="_blank">Nijika Ijichi</a> from <a href="https://www.youtube.com/channel/UC6IhDHJbJUoRJGUPnlh5GRQ" target="_blank">Kessoku Band @ BTR!</a></p>
 	    <p>🐢 Chat of <a href="https://www.youtube.com/@Neurosama" target="_blank">Neuro-sama & Evil Neuro</a></p>
 	    <p>🎧 Listener of the Band <a href="https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA" target="_blank">Yorushika</a></p>
+      <p>🎸 Play and Learning Electric Guitar as Rhythm Guitarist
 	    <p>🎮 Loyal Player of Rhythm Game <a href="https://arcaea.lowiro.com/en/" target="_blank">Arcaea</a></p>
 	    <p>📱 Connect with me on <a href="https://discord.com/users/637920921398804480" target="_blank">Discord</a> | <a href="https://www.instagram.com/natsuhakoishi/" target="_blank">Instagram</a></p>
 	    <p>🎨 Profile Picture Credits to <a href="https://x.com/eenightlamp/status/1857868000092950977" target="_blank">@eenightlamp in X</a></p>
