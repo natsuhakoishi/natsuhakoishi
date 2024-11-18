@@ -11,7 +11,7 @@
 	    <p>🎧 Listener of the Band <a href="https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA" target="_blank">Yorushika</a></p>
 	    <p>🎮 Loyal Player of Rhythm Game <a href="https://arcaea.lowiro.com/en/" target="_blank">Arcaea</a></p>
 	    <p>📱 Connect with me on <a href="https://discord.com/users/637920921398804480" target="_blank">Discord</a> | <a href="https://www.instagram.com/natsuhakoishi/" target="_blank">Instagram</a></p>
-	    <p>🎨 Profile Picture Credit: <a href="https://x.com/eenightlamp/status/1857868000092950977" target="_blank">@eenightlamp in X</a></p>
+	    <p>🎨 Profile Picture Credit: <a href="https://x.com/eenightlamp/status/1857868000092950977" target="_blank">@eenightlamp on X</a></p>
     <div align="center" style="margin-top: 20px;">
         <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/neuroThink.gif" alt="Neuro" height="60" style="margin: 5px;">
         <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/evilShake.gif" alt="Evil" height="60" style="margin: 5px;">
