@@ -6,7 +6,7 @@
 	    <p>📆 Coding Journey Started Since July 2022</p>
       <p>🚀 Interested in AI Development</p>
       <p>💛 Fan of <a href="https://bocchi-the-rock.fandom.com/wiki/Nijika_Ijichi" target="_blank">Nijika Ijichi</a> from <a href="https://www.youtube.com/channel/UC6IhDHJbJUoRJGUPnlh5GRQ" target="_blank">Kessoku Band @ BTR!</a></p>
-	    <p>🐢 Chat of <a href="https://www.youtube.com/@Neurosama" target="_blank">Neuro-sama & Evil Neuro</a></p>
+	    <p>🐢 Swarm of <a href="https://www.youtube.com/@Neurosama" target="_blank">Neuro-sama & Evil Neuro</a></p>
       <p>🎸 Play Electric Guitar as a Rhythm Guitarist</p>
 	    <p>🎧 Loyal Listener of the Band <a href="https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA" target="_blank">Yorushika</a></p>
 	    <p>🎮 Loyal Player of the Rhythm Game <a href="https://arcaea.lowiro.com/en/" target="_blank">Arcaea</a></p>
