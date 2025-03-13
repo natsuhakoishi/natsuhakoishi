@@ -34,7 +34,7 @@
 
 <p align="center">
    <a href="https://github.com/oakoudad/badge42">
-      <img src="https://badge.mediaplus.ma/darkgray/yyean-wa?1337Badge=off&UM6P=off" alt="yyean-wa's 42 stats" />
+      <img src="https://badge.mediaplus.ma/darkblue/yyean-wa?1337Badge=off&UM6P=off" alt="yyean-wa's 42 stats" />
    </a>
 </p>
 
