@@ -33,10 +33,11 @@
 </table>
 
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/yyean-wa?1337Badge=off&UM6P=off" alt="yyean-wa's 42 stats" /></a>
-  <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/evil.gif" alt="Neuro" width="400">
-</p>
-
-<p align="center">
-  <strong>:ElivSpin:</strong>
-</p>
+   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/yyean-wa?1337Badge=off&UM6P=off" alt="yyean-wa's 42 stats" /></a>
+   <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/neuro.gif" alt="Evil" width="400">
+   <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/evil.gif" alt="Neuro" width="400">
+ </p>
+ 
+ <p align="center">
+   <strong>:NweroSpin: | :ElivSpin:</strong>
+ </p>
