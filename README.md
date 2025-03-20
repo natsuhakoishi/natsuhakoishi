@@ -33,12 +33,6 @@
 </table>
 
 <p align="center">
-   <a href="https://github.com/oakoudad/badge42">
-      <img src="https://badge.mediaplus.ma/darkblue/yyean-wa?1337Badge=off&UM6P=off" alt="yyean-wa's 42 stats" />
-   </a>
-</p>
-
-<p align="center">
    <img src="https://raw.githubusercontent.com/natsuhakoishi/natsuhakoishi/main/srcs/neuro.gif" alt="Evil" width="400" style="display: inline-block; margin-right: 10px;">
    <img src="https://raw.githubusercontent.com/natsuhakoishi/natsuhakoishi/main/srcs/evil.gif" alt="Neuro" width="400" style="display: inline-block;">
 </p>
