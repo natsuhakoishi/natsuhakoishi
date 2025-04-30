@@ -23,4 +23,7 @@
   </tr>
 </table>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=natsuhakoishi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsuhakoishi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="450" height="200">
+  <img src="hhttps://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/chinatsu_okite.jpg" alt="Another Image" width="450" height="200">
+</div>
