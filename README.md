@@ -23,8 +23,12 @@
   </tr>
 </table>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsuhakoishi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 450px; height: 200px; object-fit: contain;">
-  <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/chinatsu.webp" alt="Chinatsu" style="width: 450px; height: 200px; object-fit: contain;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px; width: 100%;">
+  <div style="display: flex; justify-content: flex-start; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsuhakoishi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 450px; height: 200px; object-fit: contain;">
+  </div>
+  <div style="display: flex; justify-content: flex-end; gap: 20px;">
+    <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/chinatsu.webp" alt="Chinatsu" style="width: 450px; height: 200px; object-fit: contain;">
+  </div>
 </div>
 
