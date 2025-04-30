@@ -26,7 +26,7 @@
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsuhakoishi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="chart" width="400" style="display: inline-block; margin-right: 10px;">
-    <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/chinatsu.webp" alt="Chinatsu" width="400" style="display: inline-block;">
+    <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/chinatsu.webp" alt="Chinatsu" width="300" style="display: inline-block;">
  </p>
 
 
