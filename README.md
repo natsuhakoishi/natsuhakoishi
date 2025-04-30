@@ -11,7 +11,7 @@
       <p>📱 Connect with me on <a href="https://www.linkedin.com/in/natsuhakoishi/" target="_blank">LinkedIn</a></p>
     </td>
     <td align="right" valign="top">
-      <!-- 這邊原本有圖片，現在已移除 -->
+      <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/nijika_glass.jpg" alt="Top Right Photo" width="450">
     </td>
   </tr>
   <tr style="height: 100%;">
