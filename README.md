@@ -10,7 +10,7 @@
       <p>📱 Connect with me on <a href="https://www.linkedin.com/in/natsuhakoishi/" target="_blank">LinkedIn</a></p>
       <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/nijika_starry.gif" alt="Bottom gif" width="300" style="display: block; margin-top: 10px;">
     </td>
-    <td align="right" valign="top">
+    <td align="center" valign="middle" style="height: 100%;">
       <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/nijika_glass.jpg" alt="Top Right Photo" width="450">
     </td>
   </tr>
