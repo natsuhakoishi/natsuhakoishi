@@ -23,4 +23,4 @@
   </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natsuhakoishi)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=natsuhakoishi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
