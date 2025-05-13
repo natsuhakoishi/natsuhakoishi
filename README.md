@@ -4,7 +4,7 @@
       <h1>Hi, Natsuha Yap here! 🌟</h1>
       <p>💻 Cadet at <a href="https://42kl.edu.my/about-us/" target="_blank">42 Malaysia</a></p>
       <p>📆 Coding Journey Started Since July 2022</p>
-      <p>🚀 Interested in Mobile Development</p>
+      <p>🚀 Interested in Mobile & Web Development</p>
       <p>💛 Fan of <a href="https://bocchi-the-rock.fandom.com/wiki/Nijika_Ijichi" target="_blank">Nijika Ijichi</a> from <a href="https://www.youtube.com/channel/UC6IhDHJbJUoRJGUPnlh5GRQ" target="_blank">Kessoku Band @ BTR!</a></p>
       <p>📱 Connect with me on <a href="https://www.linkedin.com/in/natsuhakoishi/" target="_blank">LinkedIn</a></p>
       <div style="text-align: center; margin-top: 10px;">
