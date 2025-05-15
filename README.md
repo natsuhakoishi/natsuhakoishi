@@ -35,7 +35,7 @@
  </p>
 
 <p>
-   <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/mp.jpeg" alt="MP" width="292" style="display: block; margin: auto;">
+   <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/mp.jpeg" alt="MP" width="2000" style="display: block; margin: auto;">
  </p>
 
 
