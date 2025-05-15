@@ -34,6 +34,9 @@
    <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/chinatsu_okite.jpg" alt="Chinatsu" width="292" style="display: block; margin: auto;">
  </p>
 
+<p>
+   <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/mp.jpg" alt="MP" width="292" style="display: block; margin: auto;">
+ </p>
 
 
 
