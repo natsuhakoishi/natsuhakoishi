@@ -28,26 +28,29 @@
   </tr> -->
 </table>
 
-<!-- 技術圖示橫向區 -->
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
+<!-- 技術圖示橫向排列 -->
+<div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; margin-top: 20px;">
   <div style="text-align: center;">
-    <strong>Language:</strong><br>
+    <strong>Language</strong><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" style="margin: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" style="margin: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" style="margin: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" style="margin: 5px;">
   </div>
+
   <div style="text-align: center;">
-    <strong>Framework:</strong><br>
+    <strong>Framework</strong><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" style="margin: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="30" style="margin: 5px;">
   </div>
+
   <div style="text-align: center;">
-    <strong>Skills:</strong><br>
+    <strong>Skills</strong><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" style="margin: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" style="margin: 5px;">
   </div>
 </div>
+
 
 
 
