@@ -30,6 +30,7 @@
     <td colspan="2" align="middle" valign="bottom" style="padding-left: 20px">
       <strong>Framework</strong><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="40" alt="fastify logo" style="margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="fastify logo" style="margin-right: 10px;">
     </td>
   </tr>
   <tr style="height: 120%;">
