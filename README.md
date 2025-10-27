@@ -15,7 +15,7 @@
       <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/nijika_glass.jpg" alt="Top Right Photo" width="450">
     </td>
   </tr>
-  <!-- <tr style="height: 100%;">
+  <tr style="height: 100%;">
     <td colspan="2" align="middle" valign="bottom" style="padding-left: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="30" alt="fastify logo" style="margin-right: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="ts logo" style="margin-right: 5px;">
@@ -25,33 +25,20 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="30" alt="docker logo" style="margin-right: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="margin-right: 5px;">
     </td>
-  </tr> -->
+  </tr>
+    </tr>
+  <tr style="height: 100%;">
+    <td colspan="2" align="middle" valign="bottom" style="padding-left: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="30" alt="fastify logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="ts logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="30" alt="docker logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="margin-right: 5px;">
+    </td>
+  </tr>
 </table>
-
-<!-- 技術圖示橫向排列 -->
-<div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; margin-top: 20px;">
-  <div style="text-align: center;">
-    <strong>Language</strong><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" style="margin: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" style="margin: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" style="margin: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" style="margin: 5px;">
-  </div>
-
-  <div style="text-align: center;">
-    <strong>Framework</strong><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" style="margin: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="30" style="margin: 5px;">
-  </div>
-
-  <div style="text-align: center;">
-    <strong>Skills</strong><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" style="margin: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" style="margin: 5px;">
-  </div>
-</div>
-
-
 
 
 
