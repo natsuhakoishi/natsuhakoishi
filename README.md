@@ -17,7 +17,7 @@
   </tr>
   <tr style="height: 120%;">
     <td colspan="2" align="middle" valign="bottom" style="padding-left: 20px">
-      <strong>Language</strong>
+      <strong>Language</strong><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="ts logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo" style="margin-right: 10px;">
