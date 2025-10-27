@@ -15,28 +15,42 @@
       <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/nijika_glass.jpg" alt="Top Right Photo" width="450">
     </td>
   </tr>
+  <!-- <tr style="height: 100%;">
+    <td colspan="2" align="middle" valign="bottom" style="padding-left: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="30" alt="fastify logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="ts logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="30" alt="docker logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="margin-right: 5px;">
+    </td>
+  </tr> -->
+</table>
+
+<!-- 技術圖示橫向區 -->
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
-  <div>
+  <div style="text-align: center;">
     <strong>Language:</strong><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" style="margin-right: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" style="margin-right: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" style="margin-right: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" style="margin-right: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" style="margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" style="margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" style="margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" style="margin: 5px;">
   </div>
-  <div>
+  <div style="text-align: center;">
     <strong>Framework:</strong><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" style="margin-right: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="30" style="margin-right: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" style="margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="30" style="margin: 5px;">
   </div>
-  <div>
+  <div style="text-align: center;">
     <strong>Skills:</strong><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" style="margin-right: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" style="margin-right: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" style="margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" style="margin: 5px;">
   </div>
 </div>
 
 
-</table>
+
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsuhakoishi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="chart" width="485">
