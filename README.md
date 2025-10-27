@@ -15,7 +15,7 @@
       <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/nijika_glass.jpg" alt="Top Right Photo" width="450">
     </td>
   </tr>
-  <tr style="height: 100%;">
+  <tr style="height: 120%;">
     <td colspan="2" align="middle" valign="bottom" style="padding-left: 20px;">
       <strong>Language</strong><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="ts logo" style="margin-right: 10px;">
@@ -24,13 +24,13 @@
     </td>
   </tr>
     </tr>
-  <tr style="height: 100%;">
+  <tr style="height: 120%;">
     <td colspan="2" align="middle" valign="bottom" style="padding-left: 20px;">
       <strong>Framework</strong><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="30" alt="fastify logo" style="margin-right: 10px;">
     </td>
   </tr>
-  <tr style="height: 100%;">
+  <tr style="height: 120%;">
     <td colspan="2" align="middle" valign="bottom" style="padding-left: 20px;">
       <strong>Skills/Tools</strong><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" style="margin-right: 10px;">
