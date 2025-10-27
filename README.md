@@ -15,17 +15,34 @@
       <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/nijika_glass.jpg" alt="Top Right Photo" width="450">
     </td>
   </tr>
-  <tr style="height: 100%;">
-    <td colspan="2" align="middle" valign="bottom" style="padding-left: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="30" alt="fastify logo" style="margin-right: 5px;">
+<table width="100%" style="padding-left: 10px;">
+  <tr>
+    <td>
+      <strong>Language:</strong>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="ts logo" style="margin-right: 5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="js logo" style="margin-right: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" style="margin-right: 5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" style="margin-right: 5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="30" alt="docker logo" style="margin-right: 5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" style="margin-right: 5px;">
     </td>
   </tr>
+  <tr>
+    <td>
+      <strong>Framework:</strong>
+      <!-- 這邊放框架圖示，例如 Node.js, React 等 -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="30" alt="fastify logo" style="margin-right: 5px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Skills:</strong>
+      <!-- 放技能相關圖示，例如 Git, Docker 等 -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="margin-right: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" style="margin-right: 5px;">
+    </td>
+  </tr>
+</table>
+
 </table>
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
