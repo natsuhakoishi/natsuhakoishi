@@ -8,7 +8,7 @@
       <p>💛 Always Keep Learning and Stay Positive</a></p>
       <p>📱 Connect with me on <a href="https://www.linkedin.com/in/natsuhakoishi/" target="_blank">LinkedIn</a></p>
       <div style="text-align: center; margin-top: 10px;">
-        <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/nijika_starry.gif" alt="Bottom gif" width="315">
+        <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/hinata_wave.gif" alt="Bottom gif" width="315">
       </div>
     </td>
     <td align="center" valign="middle" style="height: 100%; display: flex; justify-content: center; align-items: center;">
