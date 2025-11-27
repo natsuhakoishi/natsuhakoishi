@@ -2,10 +2,10 @@
   <tr style="height: 100%;">
     <td align="left" valign="top" style="vertical-align: top;">
       <h1>Hi, Natsuha Yap here! 🌟</h1>
-      <p>💻 Cadet at <a href="https://42kl.edu.my/about-us/" target="_blank">42 Malaysia</a></p>
+      <p>💻 Specialisation Cadet of <a href="https://42kl.edu.my/about-us/" target="_blank">42 Malaysia</a></p>
       <p>📆 Coding Journey Started Since July 2022</p>
-      <p>🚀 Interested in Backend Development</p>
-      <p>💛 Fan of <a href="https://bocchi-the-rock.fandom.com/wiki/Nijika_Ijichi" target="_blank">Nijika Ijichi</a> from <a href="https://www.youtube.com/channel/UC6IhDHJbJUoRJGUPnlh5GRQ" target="_blank">Kessoku Band @ BTR!</a></p>
+      <p>🚀 Interested in Application Development</p>
+      <p>💛 Keep Learning and Stay Positive</a></p>
       <p>📱 Connect with me on <a href="https://www.linkedin.com/in/natsuhakoishi/" target="_blank">LinkedIn</a></p>
       <div style="text-align: center; margin-top: 10px;">
         <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/nijika_starry.gif" alt="Bottom gif" width="315">
@@ -40,6 +40,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" style="margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="vscode logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" style="margin-right: 10px;">
     </td>
   </tr>
