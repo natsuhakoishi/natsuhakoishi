@@ -18,8 +18,8 @@
   <tr style="height: 120%;">
     <td colspan="2" align="middle" valign="bottom" style="padding-left: 20px">
       <strong>Language</strong><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="ts logo" style="margin-right: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="ts logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" style="margin-right: 10px;">
@@ -29,6 +29,7 @@
   <tr style="height: 120%;">
     <td colspan="2" align="middle" valign="bottom" style="padding-left: 20px">
       <strong>Framework</strong><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="lrvl logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="40" alt="fastify logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="nodejs logo" style="margin-right: 10px;">
     </td>
@@ -36,11 +37,11 @@
   <tr style="height: 120%;">
     <td colspan="2" align="middle" valign="bottom" style="padding-left: 20px">
       <strong>Skills/Tools</strong><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" style="margin-right: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="vscode logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" style="margin-right: 10px;">
     </td>
   </tr>
