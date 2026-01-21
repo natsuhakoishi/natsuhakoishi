@@ -1,7 +1,7 @@
 <table width="100%" style="height: 100%; table-layout: fixed;">
   <tr style="height: 100%;">
     <td align="left" valign="top" style="vertical-align: top;">
-      <h1>Hi, Nathan Yap here! 🌟</h1>
+      <h1>Hi, Natsuha Yap here! 🌟</h1>
       <p>💻 Specialisation Cadet of <a href="https://42kl.edu.my/about-us/" target="_blank">42 Malaysia</a></p>
       <p>📆 Coding Journey Started Since July 2022</p>
       <p>🚀 Interested in Application Development</p>
