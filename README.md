@@ -48,9 +48,9 @@
 </table>
 
 <p>
-   <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsu_noway.jpg" alt="natsu1" width="1700" style="display: block; margin: auto;">
-   <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsu_donk.jpg" alt="natsu2" width="1700" style="display: block; margin: auto;">
-   <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsu_want.jpg" alt="natsu3" width="1700" style="display: block; margin: auto;">
+   <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsu_noway.jpg" alt="natsu1" width="1500" style="display: block; margin: auto;">
+   <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsu_donk.jpg" alt="natsu2" width="1500" style="display: block; margin: auto;">
+   <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsu_want.jpg" alt="natsu3" width="1500" style="display: block; margin: auto;">
 </p>
 
 
