@@ -48,7 +48,7 @@
   <tr style="height: 120%;">
     <td colspan="2" align="middle" valign="bottom" style="padding-left: 20px">
       <strong>Yutori Natsu</strong><br>
-      <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsu_huh.gif" height="40" alt="natsu01" style="margin-right: 10px;">
+      <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsu_huh.jpg" height="40" alt="natsu01" style="margin-right: 10px;">
     </td>
   </tr>
 </table>
