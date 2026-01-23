@@ -12,7 +12,7 @@
       </div>
     </td>
     <td align="center" valign="middle" style="height: 100%; display: flex; justify-content: center; align-items: center;">
-      <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsu_t.gif" alt="Top Right Photo" width="450">
+      <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsu_drink.gif" alt="Top Right Photo" width="450">
     </td>
   </tr>
   <tr style="height: 120%;">
@@ -43,6 +43,12 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" style="margin-right: 10px;">
+    </td>
+  </tr>
+  <tr style="height: 120%;">
+    <td colspan="2" align="middle" valign="bottom" style="padding-left: 20px">
+      <strong>Yutori Natsu</strong><br>
+      <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsu_huh.gif" height="40" alt="natsu01" style="margin-right: 10px;">
     </td>
   </tr>
 </table>
