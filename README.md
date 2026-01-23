@@ -12,7 +12,7 @@
       </div>
     </td>
     <td align="center" valign="middle" style="height: 100%; display: flex; justify-content: center; align-items: center;">
-      <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsu_dance.gif" alt="Top Right Photo" width="450">
+      <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/natsu_t.gif" alt="Top Right Photo" width="450">
     </td>
   </tr>
   <tr style="height: 120%;">
