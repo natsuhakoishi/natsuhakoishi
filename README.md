@@ -23,6 +23,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo" style="margin-right: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" style="margin-right: 10px;">
+      <img src="https://github.com/natsuhakoishi/natsuhakoishi/blob/main/srcs/asm.png" height="40" alt="asm logo" style="margin-right: 10px;">
     </td>
   </tr>
     </tr>
